@@ -1,0 +1,5 @@
+.venv
+.vscode
+moviedata*
+__pycache__
+*.pyc
